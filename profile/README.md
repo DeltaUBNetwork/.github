@@ -14,3 +14,5 @@ We develop open source software such as
 <li>VPNs to help protect your privacy</li>
 <li>Web Filter Bypass Methods</li>
 </ul>
+
+<b>If you want to contribute to anything just make a pull request</b>
