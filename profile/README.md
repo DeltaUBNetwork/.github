@@ -15,4 +15,4 @@ We develop open source software such as
 <li>Web Filter Bypass Methods</li>
 </ul>
 
-<b>If you want to contribute to anything just make a pull request</b>
+<b>If you want to contribute to anything just read contribution guide & make a pull request</b>
