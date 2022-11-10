@@ -1,7 +1,7 @@
 <u><b>Delta Network</b></u>
 <hr>
 <p>Welcome to Delta Network. We are a new service creating multiple all-around use services and ways to ensure that your internet privacy remains true to yourself.</p>
-We develop
+We develop open source software such as
 
 <ul>
 <li>Educational Sites</li>
